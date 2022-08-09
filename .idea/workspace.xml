@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606ef75e-5444-4ef0-9e63-130c6f529bc2" name="Changes" comment="abstract pushed">
-      <change afterPath="$PROJECT_DIR$/src/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrueFalse.java" afterDir="false" />
+    <list default="true" id="606ef75e-5444-4ef0-9e63-130c6f529bc2" name="Changes" comment="truefalse">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660001670696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="truefalse">
+      <created>1660003196402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660003196402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abstract pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract pushed" />
+    <MESSAGE value="truefalse" />
+    <option name="LAST_COMMIT_MESSAGE" value="truefalse" />
   </component>
 </project>
